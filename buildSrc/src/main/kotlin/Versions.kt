@@ -1,0 +1,48 @@
+object Versions {
+
+    val Gradle = "4.0.0-alpha06"
+    val Kotlin = "1.3.60"
+    val Coroutines = "1.3.2"
+
+    val Conductor = "3.0.0-rc1"
+    val Chuck = "1.1.0"
+    val Detekt = "1.0.0"
+    val Dokka = "0.9.18"
+    val GitVersion = "0.12.0-rc2"
+    val Glide = "4.10.0"
+    val Koin = "2.0.1"
+    val LeakCanary = "1.6.3"
+    val MaterialDesign = "1.1.0-beta01"
+    val OkHttp = "4.2.2"
+    val Realm = "5.11.0"
+    val Retrofit = "2.6.2"
+    val Stetho = "1.5.1"
+    val Versions = "0.27.0"
+
+    val JUnit = "5.5.2"
+    val JUnitAndroid = "1.5.2.0"
+    val MockK = "1.9.3"
+    val Jacoco = "0.8.0"
+
+    object AndroidX {
+        val Activity = "1.1.0-beta01"
+        val AppCompat = "1.1.0"
+        val Arch = "2.0.0-rc01"
+        val Collection = "1.1.0-alpha03"
+        val ConstraintLayout = "2.0.0-beta3"
+        val CoordinatorLayout = "1.1.0-beta01"
+        val Core = "1.2.0-beta01"
+        val DynamicAnimation = "1.0.0"
+        val Emoji = "1.0.0"
+        val ExifInterface = "1.1.0-rc01"
+        val Fragment = "1.2.0-beta02"
+        val Lifecycle = "2.2.0-beta01"
+        val Navigation = "2.1.0-alpha02"
+        val Paging = "2.1.0"
+        val RecyclerView = "1.1.0-beta05"
+        val RecyclerView_Selection = "1.1.0-alpha06"
+        val Room = "2.2.1"
+        val Sqlite = "2.0.1"
+        val Work = "2.3.0-alpha02"
+    }
+} 
